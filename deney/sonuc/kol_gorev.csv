@@ -1,0 +1,26 @@
+kol,model,gorev,n,kalite,kalite_metin,ham_dolar,taban_dolar,gorev_dolar,cikis_token
+H,Haiku 5.5,G1,3,0.9972,%99.7 etiket doğru,0.00926,0.00681,0.00245,3917
+H,Haiku 5.5,G2,3,1.0,"%100 hücre, koli 3/3",0.00675,0.00681,-6e-05,1572
+H,Haiku 5.5,G3,3,1,3/3 kusursuz (ihlal 0),0.0091,0.00681,0.00229,5055
+H,Haiku 5.5,G4,3,1,3/3 doğru + Pazartesi gerekçesi (tuzağa düşen 0),0.00908,0.00681,0.00227,4381
+H,Haiku 5.5,G5,3,0.6667,2/3 tam (istek sayısı doğru 2/3),0.008,0.00681,0.00119,3389
+S,Sonnet 5.5,G1,3,1.0,%100.0 etiket doğru,0.17547,0.10347,0.072,3219
+S,Sonnet 5.5,G2,3,1.0,"%100 hücre, koli 3/3",0.14417,0.10347,0.0407,802
+S,Sonnet 5.5,G3,3,1,3/3 kusursuz (ihlal 0),0.18091,0.10347,0.07744,3624
+S,Sonnet 5.5,G4,3,1,3/3 doğru + Pazartesi gerekçesi (tuzağa düşen 0),0.16333,0.10347,0.05985,2612
+S,Sonnet 5.5,G5,3,0.3333,1/3 tam (istek sayısı doğru 3/3),0.17002,0.10347,0.06655,2489
+O,Opus 5.5,G1,3,1.0,%100.0 etiket doğru,0.32918,0.20694,0.12224,2349
+O,Opus 5.5,G2,3,1.0,"%100 hücre, koli 3/3",0.28768,0.20694,0.08074,777
+O,Opus 5.5,G3,3,1,3/3 kusursuz (ihlal 0),0.33207,0.20694,0.12513,2435
+O,Opus 5.5,G4,3,1,3/3 doğru + Pazartesi gerekçesi (tuzağa düşen 0),0.26888,0.20694,0.06193,2427
+O,Opus 5.5,G5,3,1,3/3 tam (istek sayısı doğru 3/3),0.25656,0.20694,0.04961,1642
+O-,Opus 5.5 · düşük çaba,G1,3,1.0,%100.0 etiket doğru,0.26482,0.20698,0.05784,2265
+O-,Opus 5.5 · düşük çaba,G2,3,1.0,"%100 hücre, koli 3/3",0.22363,0.20698,0.01665,705
+O-,Opus 5.5 · düşük çaba,G3,3,0.6667,2/3 kusursuz (ihlal 1),0.24765,0.20698,0.04067,1548
+O-,Opus 5.5 · düşük çaba,G4,3,1,3/3 doğru + Pazartesi gerekçesi (tuzağa düşen 0),0.24926,0.20698,0.04228,1642
+O-,Opus 5.5 · düşük çaba,G5,3,1,3/3 tam (istek sayısı doğru 3/3),0.24485,0.20698,0.03787,1173
+F,Fable 5.1,G1,3,1.0,%100.0 etiket doğru,0.82473,0.47953,0.34519,3040
+F,Fable 5.1,G2,3,1.0,"%100 hücre, koli 3/3",0.67896,0.47953,0.19943,793
+F,Fable 5.1,G3,3,1,3/3 kusursuz (ihlal 0),0.89221,0.47953,0.41268,4090
+F,Fable 5.1,G4,3,1,3/3 doğru + Pazartesi gerekçesi (tuzağa düşen 0),0.77235,0.47953,0.29282,2200
+F,Fable 5.1,G5,3,0.6667,2/3 tam (istek sayısı doğru 3/3),0.77008,0.47953,0.29055,1878

@@ -1,0 +1,17 @@
+# Köşe Kahve — maliyet notu (Ayşe, Kasım sonu)
+
+## Malzeme fiyatları (hepsi KDV dahil, alış)
+- Kahve çekirdeği (Moda Kavurma): Kasım'da kilosu 1.150 TL. Kavurucunun e-postası: "1 Aralık'tan itibaren kilo fiyatı 1.290 TL."
+- İnek sütü (Kadıköy Çiftlik): 12 × 1 litre koli 540 TL.
+- Kağıt bardak + kapak (12 oz): adedi 7,40 TL.
+
+## Latte reçetesi
+- Çift shot espresso: toplam 18 gram çekirdek.
+- Süt: bardağa 220 ml süt girer. Köpürtürken pitcher'da kalan ve dökülen kısım yüzünden çekilen süt bunun %10 fazlasıdır.
+- Şeker, peçete, karıştırıcı maliyete katılmıyor.
+
+## Satış tarafı
+- Menü fiyatı KDV dahildir; kafede satışta KDV %10.
+- Satışların neredeyse hepsi kartla; banka, KDV dahil satış tutarının %1,8'ini komisyon olarak kesiyor.
+- Hedef: KDV hariç satış tutarından kart komisyonu ve malzeme maliyeti düşüldükten sonra kalan brüt kâr, KDV hariç satış tutarının en az %65'i olsun.
+- Menü fiyatları 5 TL'nin katıdır.

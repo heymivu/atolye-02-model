@@ -1,0 +1,31 @@
+{
+ "not": "Doğru cevaplar koşudan önce yazıldı (2026-10-31), uret.py olay listesinden hesaplandı.",
+ "Z1": {
+  "yulaf_tl": 14448,
+  "koli": 28,
+  "tuzak": {
+   "duzeltme_kacti": 14946,
+   "iade_kacti": 15516,
+   "zam_kacti": 13944,
+   "aralik_siparisi_eklendi": 17118,
+   "hepsi_kacti": 16014
+  }
+ },
+ "Z2": {
+  "malzeme_tl": 41.51,
+  "fiyat_tl": 140,
+  "p_min": 138.28,
+  "tuzak": {
+   "eski_cekirdek": 130,
+   "fire_yok": 135
+  }
+ },
+ "Z1e": {
+  "yulaf_tl": null,
+  "koli": 28,
+  "not": "eski koli fiyatı defterde yok: doğru cevap 'hesaplanamaz' (yulaf_tl null). Kısmi tutarı toplam diye yazmak yanlış."
+ },
+ "Z3": {
+  "test": "gizli_testler.py (8 test)"
+ }
+}

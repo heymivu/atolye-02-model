@@ -1,0 +1,13 @@
+{
+ "model": "claude-sonnet-5-5",
+ "effort": "high",
+ "istek": 3,
+ "usage": {
+  "input_tokens": 6,
+  "output_tokens": 3372,
+  "cache_read_input_tokens": 181132,
+  "cache_creation_input_tokens": 37915
+ },
+ "dolar": 0.146633,
+ "yol": "alt ajan (Claude Code)"
+}

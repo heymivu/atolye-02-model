@@ -1,0 +1,37 @@
+kol,gorev,tekrar,dogru,ayrinti,dolar
+H,Z1,r1,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.034595
+H,Z1,r2,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.038558
+H,Z1,r3,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.031071
+H,Z1e,r1,False,"{""tl"": 7476.0, ""koli"": 28, ""tuzak"": ""kismi_toplam""}",0.041447
+H,Z1e,r2,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.029057
+H,Z1e,r3,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.034716
+H,Z2,r1,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.013647
+H,Z2,r2,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.007647
+H,Z2,r3,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.007792
+H,Z3,r1,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.013321
+H,Z3,r2,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.010017
+H,Z3,r3,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.009091
+O,Z1,r1,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.270392
+O,Z1,r2,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.414618
+O,Z1,r3,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.415722
+O,Z1e,r1,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.616535
+O,Z1e,r2,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.430409
+O,Z1e,r3,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.427217
+O,Z2,r1,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.431855
+O,Z2,r2,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.24774
+O,Z2,r3,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.24924
+O,Z3,r1,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.449344
+O,Z3,r2,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.263905
+O,Z3,r3,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.25568
+S,Z1,r1,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.125893
+S,Z1,r2,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.211265
+S,Z1,r3,True,"{""tl"": 14448.0, ""koli"": 28, ""tuzak"": """"}",0.210942
+S,Z1e,r1,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.308243
+S,Z1e,r2,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.216513
+S,Z1e,r3,True,"{""tl"": null, ""koli"": 28, ""tuzak"": """"}",0.23164
+S,Z2,r1,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.206102
+S,Z2,r2,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.111262
+S,Z2,r3,True,"{""fiyat"": 140.0, ""malzeme"": 41.51, ""malzeme_dogru"": true, ""tuzak"": """"}",0.113142
+S,Z3,r1,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.230151
+S,Z3,r2,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.130569
+S,Z3,r3,True,"{""gecti"": 8, ""toplam"": 8, ""ayrinti"": {""gun_adi_sali"": true, ""gun_adi_hafta"": true, ""pazartesi_pazara"": true, ""binlik_okuma"": true, ""binlik_yazma"": true, ""iade"": true, ""kurus"": true, ""karisik"": true}}",0.120645

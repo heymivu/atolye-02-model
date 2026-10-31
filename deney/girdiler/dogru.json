@@ -1,0 +1,575 @@
+{
+ "not": "Doğru cevaplar koşudan önce yazıldı (2026-10-30). '|' ile ayrılanlar belirsiz kabul edilen alternatifler.",
+ "G1": {
+  "etiketler": [
+   {
+    "id": 1,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 2,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 3,
+    "konu": [
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 4,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 5,
+    "konu": [
+     "fiyat"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 6,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 7,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 8,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 9,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 10,
+    "konu": [
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0",
+     "+"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 11,
+    "konu": [
+     "fiyat"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 12,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 13,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 14,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 15,
+    "konu": [
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 16,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 17,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 18,
+    "konu": [
+     "fiyat",
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 19,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 20,
+    "konu": [
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0",
+     "+"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 21,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 22,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 23,
+    "konu": [
+     "fiyat"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 24,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 25,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 26,
+    "konu": [
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0",
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 27,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 28,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 29,
+    "konu": [
+     "fiyat",
+     "kahve"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 30,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 31,
+    "konu": [
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 32,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 33,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 34,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 35,
+    "konu": [
+     "hizmet",
+     "ortam"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 36,
+    "konu": [
+     "fiyat"
+    ],
+    "duygu": [
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 37,
+    "konu": [
+     "urun_istegi"
+    ],
+    "duygu": [
+     "0",
+     "-"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 38,
+    "konu": [
+     "kahve"
+    ],
+    "duygu": [
+     "-",
+     "0"
+    ],
+    "cevap": [
+     "evet"
+    ]
+   },
+   {
+    "id": 39,
+    "konu": [
+     "ortam"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   },
+   {
+    "id": 40,
+    "konu": [
+     "hizmet"
+    ],
+    "duygu": [
+     "+"
+    ],
+    "cevap": [
+     "hayır"
+    ]
+   }
+  ],
+  "ironik": [
+   2,
+   8,
+   14,
+   19,
+   28,
+   36
+  ],
+  "badem_istegi": [
+   3,
+   10,
+   20,
+   26,
+   37
+  ]
+ },
+ "G2": {
+  "tedarikciler": [
+   {
+    "anahtar": "ova",
+    "inek_tl_lt": 42,
+    "yulaf_tl_lt": 78,
+    "badem_tl_lt": 96,
+    "teslim_gunleri": [
+     "Pazartesi"
+    ],
+    "min_siparis_lt": 60,
+    "vade_gun": 30
+   },
+   {
+    "anahtar": "kad[ıi]k[öo]y|[çc]iftlik",
+    "inek_tl_lt": 45,
+    "yulaf_tl_lt": 83,
+    "badem_tl_lt": null,
+    "teslim_gunleri": [
+     "Salı",
+     "Perşembe"
+    ],
+    "min_siparis_lt": 40,
+    "vade_gun": 15
+   },
+   {
+    "anahtar": "marmara",
+    "inek_tl_lt": 52,
+    "yulaf_tl_lt": 80,
+    "badem_tl_lt": 92,
+    "teslim_gunleri": [
+     "Pazartesi",
+     "Salı",
+     "Çarşamba",
+     "Perşembe",
+     "Cuma",
+     "Cumartesi",
+     "Pazar"
+    ],
+    "min_siparis_lt": 30,
+    "vade_gun": 0
+   }
+  ]
+ },
+ "G4": {
+  "dogru": "kad[ıi]k[öo]y|[çc]iftlik",
+  "tuzak": "ova",
+  "tuzak_neden": "pazartesi",
+  "hesap": {
+   "ova_haftalik_tl": 4500,
+   "kadikoy_haftalik_tl": 4810,
+   "marmara_haftalik_tl": 5240,
+   "butce": 5000,
+   "kadikoy_koli_yuvarlamali_tl": 5232
+  },
+  "not": "2026-10-30 koşu sırasında fark edildi (H·G4·r3 cevabı): Kadıköy Çiftlik koliyle satıyor; 70 lt inek = 6 koli (72 lt), 20 lt yulaf = 4 koli (24 lt) → 5.232 TL, bütçeyi 232 TL aşıyor. Litre fiyatıyla 4.810 TL. Doğru seçim değişmiyor: Ova Pazartesi teslim (kullanılamaz), Marmara 5.240 TL + peşin; Kadıköy en az kötü ve tek uygulanabilir seçenek. Puanlama aynı kaldı (seçim + Ova'nın Pazartesi gerekçesi); koli yuvarlamasını fark eden cevaplar ayrıca sayılır (bilgi, puana girmez)."
+ },
+ "G5": {
+  "istek_sayisi": 5,
+  "badem_tedarikcisi": "marmara",
+  "oneri_dogru": [
+   "ayse_karar_versin"
+  ],
+  "kural": "8"
+ }
+}

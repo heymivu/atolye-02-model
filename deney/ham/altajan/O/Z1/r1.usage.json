@@ -1,0 +1,13 @@
+{
+ "model": "claude-opus-5-5",
+ "effort": "medium",
+ "istek": 4,
+ "usage": {
+  "input_tokens": 8,
+  "output_tokens": 1204,
+  "cache_read_input_tokens": 336124,
+  "cache_creation_input_tokens": 35811
+ },
+ "dolar": 0.270392,
+ "yol": "alt ajan (Claude Code)"
+}

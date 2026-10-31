@@ -1,0 +1,13 @@
+{
+ "model": "claude-fable-5-1",
+ "effort": "high",
+ "istek": 3,
+ "usage": {
+  "input_tokens": 67,
+  "output_tokens": 2258,
+  "cache_read_input_tokens": 181244,
+  "cache_creation_input_tokens": 36656
+ },
+ "dolar": 0.617081,
+ "yol": "alt ajan (Claude Code)"
+}

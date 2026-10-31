@@ -1,0 +1,6 @@
+# Köşe Kahve'den örnek işler (uydurma kafe). Önce: python yonlendir.py --isler ornek-isler.jsonl --kuru
+{"etiket": "yorum", "metin": "Şu yorumu etiketle. Konu (kahve/tatlı/hizmet/fiyat/ortam), duygu (+/-/0) ve cevap gerekir mi (evet/hayır). Yalnız JSON ver.\nYorum: \"Harika, latte'yi tam yirmi dakikada getirdiler. Sabırlı olmayı öğrendim.\""}
+{"etiket": "tablo", "dosya": "deney/girdiler/TEKLIFLER.md", "metin": "Bu üç teklifi tek tabloya dök: tedarikçi, inek sütü TL/litre, yulaf sütü TL/litre, teslim günleri, en az sipariş, vade. Koli fiyatını litreye çevir."}
+{"etiket": "ozet", "metin": "Bu haftanın notunu üç maddede özetle: Pazartesi kapalıyız. Haftalık 70 litre inek, 20 litre yulaf sütü gidiyor. Soğuk oda 100 litre alıyor. Süt bütçesi haftalık 5.000 TL."}
+{"etiket": "yazi", "metin": "Köşe Kahve için Salı sabahı paylaşılacak kısa bir Instagram gönderisi yaz: yeni yulaf sütlü latte. En fazla bir emoji, indirim yok, soruyla bitsin."}
+{"etiket": "karar", "dosya": "deney/girdiler/ISLETME.md", "metin": "Yukarıdaki işletme notuna göre üç süt tedarikçisinden hangisiyle çalışmalıyız? Teklifleri bilmiyorsan, eksik bilgiyi söyle ve tahmin etme."}

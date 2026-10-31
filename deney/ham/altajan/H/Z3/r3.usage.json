@@ -1,0 +1,13 @@
+{
+ "model": "claude-haiku-5-5",
+ "effort": "medium",
+ "istek": 3,
+ "usage": {
+  "input_tokens": 6,
+  "output_tokens": 4768,
+  "cache_read_input_tokens": 181033,
+  "cache_creation_input_tokens": 39172
+ },
+ "dolar": 0.009091,
+ "yol": "alt ajan (Claude Code)"
+}
